@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/DayHours.qml</file>
+        <file>qml/Timesetter.qml</file>
+        <file>qml/Schedule.qml</file>
+        <file>qml/ScheduleWidget.qml</file>
+        <file>qml/EditSchedule.qml</file>
+        <file>qml/AddSchedule.qml</file>
+    </qresource>
+</RCC>

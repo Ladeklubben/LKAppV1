@@ -1,0 +1,10 @@
+All:
+In the root folder of the project (where the .pro file is located) add the android for ssl https://github.com/KDAB/android_openssl
+git clone https://github.com/KDAB/android_openssl android_openss
+
+For Windows:
+The webengine depends on the MS Visual C++ compiler. This compiler is not included in the 
+qt install, but shall be installed from within Visiual Studio: 
+https://musescore.org/en/handbook/developers-handbook/compilation/compile-instructions-windows-visual-studio#1._Prerequisites
+
+

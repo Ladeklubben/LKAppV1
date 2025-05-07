@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Totals.qml</file>
+        <file>qml/Active.qml</file>
+        <file>qml/AlwaysOn.qml</file>
+        <file>qml/PublicSetup.qml</file>
+        <file>qml/ChargerInfo.qml</file>
+        <file>qml/ListPriceSetup.qml</file>
+        <file>qml/Transactions.qml</file>
+        <file>qml/BalanceSheetView.qml</file>
+        <file>qml/PaymentCardsView.qml</file>
+        <file>qml/SalesView.qml</file>
+        <file>qml/StationStatPage.qml</file>
+        <file>qml/SmartView.qml</file>
+    </qresource>
+</RCC>

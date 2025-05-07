@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Loginpage.qml</file>
+        <file>qml/StationPage.qml</file>
+        <file>qml/Register.qml</file>
+        <file>qml/MenuPage.qml</file>
+        <file>qml/HeaderBar.qml</file>
+        <file>qml/BottomMenu.qml</file>
+        <file>qml/Measurement.qml</file>
+        <file>qml/Sidebar.qml</file>
+        <file>qml/PuchasesView.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/EditUser.qml</file>
+        <file>qml/AboutUs.qml</file>
+        <file>qml/NewChargerView.qml</file>
+    </qresource>
+</RCC>

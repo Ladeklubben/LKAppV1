@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/ev_type2.png</file>
+        <file>icons/ev_typechademo.png</file>
+        <file>icons/ev_type2comboCCS.png</file>
+        <file>icons/ev_type1.png</file>
+        <file>icons/logo.svg</file>
+        <file>icons/logo_invert.svg</file>
+        <file>icons/lock-locked_white.svg</file>
+        <file>icons/lock-unlocked_white.svg</file>
+        <file>icons/creditcard.svg</file>
+        <file>icons/login_image.jpg</file>
+        <file>icons/Kort.svg</file>
+        <file>icons/logo_no_circle.svg</file>
+    </qresource>
+</RCC>

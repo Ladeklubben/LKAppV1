@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Http.qml</file>
+        <file>qml/DateTime.qml</file>
+        <file>qml/QR.qml</file>
+        <file>qml/OpeningHours.qml</file>
+        <file>qml/LKInterface.qml</file>
+        <file>qml/LKAdminInterface.qml</file>
+        <file>qml/LKUserInterface.qml</file>
+        <file>qml/LKChargerInterface.qml</file>
+        <file>qml/LKGuestChargeInterface.qml</file>
+        <file>qml/LKElectrictyInterface2.qml</file>
+        <file>qml/LKScheduleInterface.qml</file>
+        <file>qml/LKOrderInterface.qml</file>
+        <file>qml/LKOCPPInterface.qml</file>
+        <file>qml/LKInstallationInterface.qml</file>
+    </qresource>
+</RCC>

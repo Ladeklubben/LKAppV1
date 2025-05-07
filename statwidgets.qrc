@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/ChargerStat.qml</file>
+        <file>qml/NextEventOKWidget.qml</file>
+        <file>qml/NextEventOPENWidget.qml</file>
+        <file>qml/ChargerState.qml</file>
+        <file>qml/ListpriceWidget.qml</file>
+    </qresource>
+</RCC>

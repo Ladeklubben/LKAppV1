@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleInfoDictionaryVersion</key>
+    <string>6.0</string>
+
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+
+    <key>CFBundleName</key>
+    <string>${MACOSX_BUNDLE_BUNDLE_NAME}</string>
+
+    <key>CFBundleDisplayName</key>
+    <string>${MACOSX_BUNDLE_BUNDLE_NAME}</string>
+
+    <key>CFBundleIdentifier</key>
+    <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+
+    <key>CFBundleExecutable</key>
+    <string>${MACOSX_BUNDLE_EXECUTABLE_NAME}</string>
+
+    <key>CFBundleVersion</key>
+    <string>${MACOSX_BUNDLE_BUNDLE_VERSION}</string>
+
+    <key>CFBundleShortVersionString</key>
+    <string>${MACOSX_BUNDLE_SHORT_VERSION_STRING}</string>
+
+    <key>LSRequiresIPhoneOS</key>
+    <true/>
+
+    <key>MinimumOSVersion</key>
+    <string>14.0</string>
+
+    <key>UIDeviceFamily</key>
+    <array>
+        <integer>1</integer>
+    </array>
+
+    <key>UILaunchStoryboardName</key>
+    <string>LaunchScreen</string>
+
+    <key>UIRequiresFullScreen</key>
+    <true/>
+
+    <key>UIStatusBarHidden</key>
+    <true/>
+
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+    </array>
+
+    <key>UISupportedInterfaceOrientations~ipad</key>
+    <array>
+        <string>UIInterfaceOrientationPortrait</string>
+    </array>
+
+    <key>UIRequiredDeviceCapabilities</key>
+    <array>
+        <string>location-services</string>
+        <string>arm64</string>
+    </array>
+
+    <!-- Privacy permissions -->
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Ladeklubben uses GPS to help pick the nearest charging station</string>
+
+    <key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+    <string>The location is needed to show only the charging stations nearby</string>
+
+    <key>NSCameraUsageDescription</key>
+    <string>Access camera for reading QR codes</string>
+
+    <key>NSHumanReadableCopyright</key>
+    <string>(c)2024 Ladeklubben Aps</string>
+
+    <!-- Qt specific -->
+    <key>CFBundleIconFile</key>
+    <string></string>
+
+    <key>CFBundleDevelopmentRegion</key>
+    <string>en</string>
+
+    <key>CFBundleAllowMixedLocalizations</key>
+    <true/>
+
+    <key>NOTE</key>
+    <string>This file was created for Ladeklubben iOS app</string>
+</dict>
+</plist>

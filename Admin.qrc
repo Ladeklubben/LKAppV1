@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Adminpage.qml</file>
+        <file>qml/AdminOrdersView.qml</file>
+    </qresource>
+</RCC>

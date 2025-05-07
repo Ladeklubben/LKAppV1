@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 76.519613 73.003854"
+   height="73.003853mm"
+   width="76.519615mm"
+   sodipodi:docname="logo_no_circle_for_font.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     id="namedview12"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.3987642"
+     inkscape:cx="197.31703"
+     inkscape:cy="127.25519"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showborder="true" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="path330"
+     style="font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:91.801px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold Oblique';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.941176;stroke:none;stroke-width:2.29503"
+     d="M 26.291607,3.0402762 H 43.549128 L 33.060147,56.919586 h 30.211851 l -2.46536,13.04399 H 47.041998 32.978927 23.775897 13.24762 Z"
+     inkscape:connector-curvature="0" />
+  <ellipse
+     ry="36.501926"
+     rx="38.259808"
+     cy="36.501926"
+     cx="38.259808"
+     id="ellipse333"
+     style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.82;stroke-miterlimit:4.15652;stroke-dasharray:none;stroke-opacity:0.912863" />
+</svg>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/AddCharger.qml</file>
+        <file>qml/SetChargerWidget.qml</file>
+        <file>qml/CWPlaceCharger.qml</file>
+        <file>qml/CWChargerType.qml</file>
+        <file>qml/ChargerLocation.qml</file>
+    </qresource>
+</RCC>

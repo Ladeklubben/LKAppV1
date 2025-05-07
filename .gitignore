@@ -1,0 +1,17 @@
+/qrc_*.cpp
+*.o
+/ladeklubben_plugin_import.cpp
+/ladeklubben_qml_plugin_import.cpp
+/moc_predefs.h
+/.qmake.stash
+/Ladeklubben.pro.user
+/wRgbpR.json
+/xgomIi.json
+/build-QZXing-Desktop_Qt_5_15_2_GCC_64bit-Debug/*
+/build-QZXing-*
+build/*
+CMakeLists.txt.user
+android_openssl/*
+.direnv/*
+.vscode/*
+.envrc

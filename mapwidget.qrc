@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/ChargerMap.qml</file>
+        <file>qml/MapPage.qml</file>
+        <file>qml/GuestCharge.qml</file>
+        <file>qml/GuestChargeStats.qml</file>
+        <file>qml/MapData.qml</file>
+        <file>qml/LKMapDataItem.qml</file>
+        <file>qml/LKMapStationInfo.qml</file>
+        <file>qml/LKQRScanner.qml</file>
+        <file>qml/OrderView.qml</file>
+    </qresource>
+</RCC>

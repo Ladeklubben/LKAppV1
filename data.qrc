@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/OwnerGroups.qml</file>
+        <file>qml/GuestGroups.qml</file>
+        <file>qml/LKMemberPriceSetup.qml</file>
+    </qresource>
+</RCC>

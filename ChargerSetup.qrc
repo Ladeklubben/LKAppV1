@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/ChargerSetupView.qml</file>
+        <file>qml/ChargerNotificationSetup.qml</file>
+        <file>qml/QRSetupView.qml</file>
+        <file>qml/ChargerLocation.qml</file>
+        <file>qml/CWPlaceCharger.qml</file>
+        <file>qml/SmartCharging.qml</file>
+        <file>qml/ChargerRemoveWarning.qml</file>
+        <file>qml/ChargerCntrl.qml</file>
+    </qresource>
+</RCC>

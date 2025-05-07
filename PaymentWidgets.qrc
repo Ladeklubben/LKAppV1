@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/CardRenew.qml</file>
+        <file>qml/CardUpdateFinish.qml</file>
+    </qresource>
+</RCC>

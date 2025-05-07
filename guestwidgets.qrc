@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/GuestElabsed.qml</file>
+        <file>qml/GuestConsumption.qml</file>
+        <file>qml/GuestCost.qml</file>
+        <file>qml/GuestOrder.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/Spotprices.qml</file>
+        <file>qml/LKElecticitySettlementSetup.qml</file>
+        <file>qml/LKCreateESettlement.qml</file>
+        <file>qml/LKElectricityTaxReductionSettlement.qml</file>
+        <file>qml/LKElectricityStoredPicker.qml</file>
+    </qresource>
+</RCC>
